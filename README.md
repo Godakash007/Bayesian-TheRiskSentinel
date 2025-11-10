@@ -1,8 +1,3 @@
-Perfect 😎 — here’s your **Bayesian Risk Assessment Using Cybersecurity Data** project’s complete, polished, and **GitHub-ready `README.md`** — with all sections properly formatted, every code block closed correctly, and a clean professional flow 👇
-
----
-
-````markdown
 # 🧠 Bayesian Risk Assessment Using Cybersecurity Data
 
 This project implements a **Bayesian Network–based risk assessment framework** to evaluate and rank the likelihood of cybersecurity threats compromising various digital assets.
