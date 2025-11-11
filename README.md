@@ -5,7 +5,10 @@
   <img src="https://img.shields.io/badge/Framework-Bayesian%20Network%20Analysis-green?logo=graph&logoColor=white" />
   <img src="https://img.shields.io/badge/Domain-Cybersecurity%20Risk%20Assessment-red?logo=shield&logoColor=white" />
   <img src="https://img.shields.io/badge/Methodology-Probabilistic%20Inference-yellow?logo=brain&logoColor=white" />
-  <img src="https://img.shields.io/github/stars/Godakash007/BayesShieldBayesian-TheRiskSentinelstyle=social" />
+  <a href="https://github.com/Godakash007/Bayesian-TheRiskSentinel">
+    <img src="https://img.shields.io/github/stars/Godakash007/Bayesian-TheRiskSentinel?style=social" />
+  </a>
+</p>
 
 This project implements a **Bayesian Network–based risk assessment framework** to evaluate and rank the likelihood of cybersecurity threats compromising various digital assets.
 
