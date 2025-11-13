@@ -126,7 +126,7 @@ Includes:
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/Godakash007/bayesian-risk-assessment.git
+git clone https://github.com/Godakash007/Bayesian-TheRiskSentinel.git
 cd bayesian-risk-assessment
 ```
 
