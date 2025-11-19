@@ -75,9 +75,13 @@ These calculations help quantify each asset’s potential exposure level and ran
 ## 📊 Features
 
 ✅ Automated Data Preprocessing & Cleaning
+
 ✅ Dynamic Bayesian Inference for Threat Likelihoods
+
 ✅ Asset Risk Ranking & Visualization
+
 ✅ Auto-Generated Mitigation Strategies Based on Risk Levels
+
 ✅ PDF Report Generation (`AkashA_BayesianRiskReport.pdf`)
 
 ---
